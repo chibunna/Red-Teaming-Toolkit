@@ -202,7 +202,7 @@ data stream as a sequence of HTTPS requests and responses. https://github.com/ar
 * **Inveigh** is a Windows PowerShell LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool. https://github.com/Kevin-Robertson/Inveigh
 * **PowerUpSQL** a PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 * **MailSniper** is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). https://github.com/dafthack/MailSniper
-* **DomainPasswordSpray** is a tool written in PowerShell to perform a password spray attack against users of a domain. https://github.com/dafthack/DomainPasswordSpray 
+* **DomainPasswordSpray** is a tool written in PowerShell to perform a password spray attack against users of a domain. https://github.com/dafthack/DomainPasswordSpray
 * **WMIOps** is a powershell script that uses WMI to perform a variety of actions on hosts, local or remote, within a Windows environment. It's designed primarily for use on penetration tests or red team engagements. https://github.com/ChrisTruncer/WMIOps
 * **Mimikatz** is an open-source utility that enables the viewing of credential information from the Windows lsass. https://github.com/gentilkiwi/mimikatz
 * **LaZagne** project is an open source application used to retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
@@ -233,7 +233,7 @@ data stream as a sequence of HTTPS requests and responses. https://github.com/ar
 https://github.com/HarmJ0y/DAMP
 
 ## Escalate Privileges
-### Domain Escalation
+### Domain Escalation --
 * **PowerView** is a PowerShell tool to gain network situational awareness on Windows domains. https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
 * **Get-GPPPassword** Retrieves the plaintext password and other information for accounts pushed through Group Policy Preferences. https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1
 * **Invoke-ACLpwn** is a tool that automates the discovery and pwnage of ACLs in Active Directory that are unsafe configured. https://github.com/fox-it/Invoke-ACLPwn
@@ -331,7 +331,7 @@ https://github.com/whid-injector/WHID
   * https://github.com/360-A-Team/CobaltStrike-Toolset
   * https://github.com/FortyNorthSecurity/AggressorAssessor
   * https://github.com/ramen0x3f/AggressorScripts
-  
+
 * A collection scripts useful for red teaming and pentesting
   * https://github.com/FuzzySecurity/PowerShell-Suite
   * https://github.com/nettitude/Powershell
